@@ -13,6 +13,7 @@ Zoom Functionality - Adjustable zoom (50%-200%) for better visibility
 Detailed Packet View - Layer-by-layer packet inspection
 Color-coded Protocols - Visual distinction between different protocols
 Packet Filtering - Easy identification of specific traffic types
+Added a feature for capturing login credentials from unsecured HTTP websites.
 
 🛠️ Technologies Used
 
